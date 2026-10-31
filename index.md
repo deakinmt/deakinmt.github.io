@@ -7,14 +7,14 @@ is_contact: true
 
 <img class="profile-picture" src="data\md_sqr.jpg">
 
-I am a Royal Academy of Engineering Research Fellow at Newcastle University. My research focuses on understanding how new technologies can be integrated into existing energy networks to maximise both network and technology utilization within the system.
+I am a Royal Academy of Engineering Research Fellow (Senior Lecturer) at Newcastle University. My research focuses on understanding how new technologies can be integrated into existing energy networks to maximise both network and technology utilization within the system.
 
 * Details of my current research interests are on the [Research](research) page.
 * For a brief CV, see the [About](about) page.
 <!-- * For researchers I am supervising and their topics, see the [Group](group) page. -->
 * My publications are listed on [Scholar](https://scholar.google.com/citations?user=Gkxd78QAAAAJ&hl=en).
 
-The content of this website is curated without use of AI.
+This site is curated without AI.
 
 ### Contact
 
