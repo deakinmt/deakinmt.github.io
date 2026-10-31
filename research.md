@@ -4,7 +4,7 @@ layout: default
 
 ## Research
 
-My research focuses on combining energy networks with novel 'smart' technologies and processes, aiming to maximise utilization of each of those to increase system efficiency.
+My research focuses on combining energy networks with novel 'smart' technologies and processes (particularly power electronics-based 'inverter based resources'), aiming to maximise utilization of each of those to increase system efficiency.
 
 * Increasing utilization of an energy network through smart technologies means finding new ways of operating smart technologies to increase network capacity. Increasing network capacity is required to minimize requirements for costly, disruptive and unpopular network reniforcements.
 * Increased utilization of smart technologies within an energy networks means finding new ways of designing, co-ordinating or connecting devices to maximise their usefulness within the system. Increased utilization can increase efficiency of the grid, reduces renewables curtailment, therefore ultimately reducing operational costs of the system.
@@ -13,9 +13,13 @@ In my RAEng Research Fellowship, I am exploring this in the context of novel hyb
 
 ---
 
+My academic publications list is my [Scholar](https://scholar.google.com/citations?user=Gkxd78QAAAAJ&hl=en) page. A list of links to technical reports is coming soon.
+
+Tools and data are available from [NU figshare](https://data.ncl.ac.uk/authors/Matthew_Deakin/11948024) and [Github](https://github.com/deakinmt).
+
+
 ### Recent outputs
 
-My full publications list is my [Scholar](https://scholar.google.com/citations?user=Gkxd78QAAAAJ&hl=en) page.
 
 **Power electronic devices for network operators**
 

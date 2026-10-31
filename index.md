@@ -14,6 +14,8 @@ I am a Royal Academy of Engineering Research Fellow at Newcastle University. My 
 <!-- * For researchers I am supervising and their topics, see the [Group](group) page. -->
 * My publications are listed on [Scholar](https://scholar.google.com/citations?user=Gkxd78QAAAAJ&hl=en).
 
+The content of this website is curated without use of AI.
+
 ### Contact
 
 I check my email most regularly: [matthew.deakin@newcastle.ac.uk](matthew.deakin@newcastle.ac.uk)
