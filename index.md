@@ -18,7 +18,7 @@ This site is curated without AI.
 
 ### Contact
 
-I check my email most regularly: [matthew.deakin@newcastle.ac.uk](matthew.deakin@newcastle.ac.uk)
+I check my email most regularly: [matthew.deakin@newcastle.ac.uk](mailto:matthew.deakin@newcastle.ac.uk)
 
 You can also find me on:
 * [LinkedIn](https://uk.linkedin.com/in/matthew-deakin-82028669)
